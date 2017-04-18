@@ -45,7 +45,7 @@
     "protractor": "^4.0.9",
     "streamqueue": "^1.1.1"
   },
-  "dependencies": {
+  "peerDependencies": {
     "firebase": "^3.3.0"
   }
 }
